@@ -69,6 +69,6 @@ node index.js
 * Requires Node.js v16 or higher  
 * Uses Discord.js v14  
 * Only works with **Ticket Tool transcript files** (`.html`)  
-* Designed for BBRP staff teams and any server that uses Ticket Tool  
+* Designed for any server that uses Ticket Tool  
 
 ---
