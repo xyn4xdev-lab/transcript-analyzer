@@ -72,3 +72,7 @@ node index.js
 * Designed for any server that uses Ticket Tool  
 
 ---
+
+## License
+
+This project is open source and available under the [Creative Commons Attribution-NonCommercial 4.0 International License](./LICENSE).
