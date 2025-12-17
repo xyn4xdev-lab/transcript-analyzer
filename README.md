@@ -18,7 +18,7 @@ A Discord bot that analyzes Ticket Tool transcripts and generates activity repor
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/xyn4xdev-lab/discord-ticket-analyzer.git
+git clone https://github.com/xyn4xdev-lab/transcript-analyzer.git
 cd discord-ticket-analyzer
 npm install
 ```
